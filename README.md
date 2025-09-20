@@ -16,11 +16,11 @@
 
 
 ### 📫 Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
----
-
-### 🛠️ Tecnologias que utilizo no meu dia a dia
 
 ---
+
+### 🛠️ Tecnologias que utilizo no meu dia a dia:
+
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
@@ -32,9 +32,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
+<br>
+<div align="center">
+ 📊 Minhas Estatísticas no GitHub
+</div>
+ <br>
 
 <p align="center">
   <a href="https://github.com/bruno-kirashy">
