@@ -15,7 +15,7 @@
 
 
 
-### 📫 Você pode me encontrar no **[LinkedIn](www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
+### 📫 Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
