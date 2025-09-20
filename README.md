@@ -18,18 +18,9 @@
 ### 📫 Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/bruno-kirashy">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-kirashy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kirashy&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
+### 🛠️ Tecnologias que utilizo no meu dia a dia
 
 ---
-
-### 🛠️ Tecnologias que utilizo no meu dia a dia
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
@@ -39,6 +30,17 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/bruno-kirashy">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-kirashy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kirashy&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </p>
 
 ---
