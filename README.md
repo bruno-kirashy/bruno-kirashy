@@ -7,8 +7,11 @@ Sou um Desenvolvedor Front-end júnior, com foco em **React & Next.js**. Meu obj
 Estou sempre buscando aprender mais sobre boas práticas de programação e procuro ativamente por oportunidades que me permitam crescer na área, ganhar experiência em projetos reais e me desenvolver como programador.
 
 🔭 Atualmente trabalhando como **Desenvolvedor Front-end (React | Next.js) como Feelancer.**
-🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js** 
-💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias**
+
+🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js**.
+
+💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias**.
+
 📫 Você pode me encontrar no **[LinkedIn](www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
 
 <br>
