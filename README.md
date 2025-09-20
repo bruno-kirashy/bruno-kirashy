@@ -2,14 +2,14 @@
 
 <br>
 
-[cite_start]Sou um Desenvolvedor Front-end júnior [cite: 15, 17][cite_start], com foco em **React & Next.js**[cite: 15, 17]. [cite_start]Meu objetivo é criar interfaces que sejam intuitivas, bem estruturadas e, acima de tudo, funcionais e bem feitas.
+Sou um Desenvolvedor Front-end júnior, com foco em **React & Next.js**. Meu objetivo é criar interfaces que sejam intuitivas, bem estruturadas e, acima de tudo, funcionais e bem feitas.
 
-[cite_start]Estou sempre buscando aprender mais sobre boas práticas de programação  [cite_start]e procuro ativamente por oportunidades que me permitam crescer na área, ganhar experiência em projetos reais e me desenvolver como programador.
+Estou sempre buscando aprender mais sobre boas práticas de programação e procuro ativamente por oportunidades que me permitam crescer na área, ganhar experiência em projetos reais e me desenvolver como programador.
 
-- [cite_start]🔭 Atualmente trabalhando como **Desenvolvedor Front-end (React | Next.js)** [cite: 21]
-- [cite_start]🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js** 
-- [cite_start]💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias** [cite: 6]
-- [cite_start]📫 Você pode me encontrar no **[LinkedIn](www.linkedin.com/in/bruno-santos-silva-8091b6378)** [cite: 3] [cite_start]ou via **[E-mail](mailto:jkbrunowk@gmail.com)** [cite: 2]
+🔭 Atualmente trabalhando como **Desenvolvedor Front-end (React | Next.js) como Feelancer.**
+🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js** 
+💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias**
+📫 Você pode me encontrar no **[LinkedIn](www.linkedin.com/in/bruno-santos-silva-8091b6378)** ou via **[E-mail](mailto:jkbrunowk@gmail.com)**
 
 <br>
 
