@@ -2,20 +2,19 @@
 
 ### Sou um desenvolvedor focado em criar interfaces que sejam intuitivas, bem estruturadas e, acima de tudo, funcionais. Estou sempre buscando aprender mais sobre boas práticas e procuro ativamente por oportunidades que me permitam crescer e contribuir em projetos reais.
 
----
-### 🔭 Atualmente trabalhando como **Desenvolvedor Front-end (React | Next.js) como Feelancer.**
+#### 🔭 Atualmente trabalhando como **Desenvolvedor Front-end (React | Next.js) como Feelancer.**
 
 
 
-### 🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js**.
+#### 🌱 Aprofundando meus conhecimentos em **boas práticas de programação e no ecossistema Next.js**.
 
 
 
-### 💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias**.
+#### 💬 Me chama pra trocar uma ideia sobre **desenvolvimento front-end, design de interfaces e novas tecnologias**.
 
 
 
-### 📫 Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
+#### 📫 Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/bruno-santos-silva-8091b6378)**, ou via **[E-mail](mailto:jkbrunowk@gmail.com)**.
 
 ---
 
@@ -37,15 +36,14 @@
  📊 Minhas Estatísticas no GitHub
 </div>
  <br>
- 
-<table>
-  <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kirashy&layout=compact&theme=dracula&hide_border=true" /></td>
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-kirashy&theme=dracula&hide_border=true" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-kirashy&theme=dracula&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-kirashy&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
----
+
 
 ### 📫 Contate-me
 
