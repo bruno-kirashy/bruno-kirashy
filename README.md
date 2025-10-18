@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Bruno Santos Silva!
+# 👋 Olá, eu sou o Bruno Santos Silva!
 
 ### Sou um desenvolvedor focado em criar interfaces que sejam intuitivas, bem estruturadas e, acima de tudo, funcionais. Estou sempre buscando aprender mais sobre boas práticas e procuro ativamente por oportunidades que me permitam crescer e contribuir em projetos reais.
 
